@@ -15,7 +15,7 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "Inventory App",
+  title: "InventoVault",
   description: "App to manage inventory for businesses",
 };
 
